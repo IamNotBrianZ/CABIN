@@ -222,5 +222,5 @@
     "item.kubejs.incomplete_gravity_normalizer": "Незаконченный нормализатор гравитации",
     "block.kubejs.substrate_fluix": "Флюисовый реагент",
     "filled_map.fortress": "Карта поиска крепости",
-    "cabin.trials.crafter.deprecation.tooltip": "Depreciated. Craft into a Crafter from Quark"
+    "cabin.trials.crafter.deprecation.tooltip": "Не используется. Переделайте его в крафтер из Quark"
 }

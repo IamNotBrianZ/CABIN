@@ -219,8 +219,8 @@
     "block.mbd2.strainer": "沉积过滤器",
     "mbd2.strainer": "沉积过滤",
     "item.kubejs.incomplete_flight_anchor": "未完成的飞行锚点",
-    "item.kubejs.incomplete_gravity_normalizer": "Incomplete Gravity Normalizer",
-    "block.kubejs.substrate_fluix": "Fluix Reagent",
-    "filled_map.fortress": "Fortress Locator Map",
+    "item.kubejs.incomplete_gravity_normalizer": "未完成的重力标准化器",
+    "block.kubejs.substrate_fluix": "福鲁伊克斯试剂",
+    "filled_map.fortress": "下界堡垒定位图",
     "cabin.trials.crafter.deprecation.tooltip": "Depreciated. Craft into a Crafter from Quark"
 }
